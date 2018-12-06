@@ -123,6 +123,7 @@ GameObject:
   - component: {fileID: 104692184}
   - component: {fileID: 104692183}
   - component: {fileID: 104692182}
+  - component: {fileID: 104692185}
   m_Layer: 0
   m_Name: 008-oboe
   m_TagString: Untagged
@@ -283,6 +284,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &104692185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 104692181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &159328905
 GameObject:
   m_ObjectHideFlags: 0
@@ -367,6 +379,7 @@ GameObject:
   - component: {fileID: 242217965}
   - component: {fileID: 242217964}
   - component: {fileID: 242217963}
+  - component: {fileID: 242217966}
   m_Layer: 0
   m_Name: 004-viola
   m_TagString: Untagged
@@ -527,6 +540,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &242217966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 242217962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &707068475
 GameObject:
   m_ObjectHideFlags: 0
@@ -537,6 +561,7 @@ GameObject:
   - component: {fileID: 707068478}
   - component: {fileID: 707068477}
   - component: {fileID: 707068476}
+  - component: {fileID: 707068479}
   m_Layer: 0
   m_Name: 025-trombone
   m_TagString: Untagged
@@ -697,6 +722,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &707068479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 707068475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &948260928
 GameObject:
   m_ObjectHideFlags: 0
@@ -707,6 +743,7 @@ GameObject:
   - component: {fileID: 948260931}
   - component: {fileID: 948260930}
   - component: {fileID: 948260929}
+  - component: {fileID: 948260932}
   m_Layer: 0
   m_Name: 019-keyboard
   m_TagString: Untagged
@@ -867,6 +904,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &948260932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 948260928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1123369106
 GameObject:
   m_ObjectHideFlags: 0
@@ -877,6 +925,7 @@ GameObject:
   - component: {fileID: 1123369108}
   - component: {fileID: 1123369107}
   - component: {fileID: 1123369109}
+  - component: {fileID: 1123369110}
   m_Layer: 0
   m_Name: 048-violin
   m_TagString: Untagged
@@ -1037,6 +1086,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1123369110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1123369106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1245718178
 GameObject:
   m_ObjectHideFlags: 0
@@ -1047,6 +1107,7 @@ GameObject:
   - component: {fileID: 1245718180}
   - component: {fileID: 1245718179}
   - component: {fileID: 1245718181}
+  - component: {fileID: 1245718182}
   m_Layer: 0
   m_Name: 034-trumpet
   m_TagString: Untagged
@@ -1207,6 +1268,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1245718182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1245718178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1251501205
 GameObject:
   m_ObjectHideFlags: 0
@@ -1217,6 +1289,7 @@ GameObject:
   - component: {fileID: 1251501207}
   - component: {fileID: 1251501206}
   - component: {fileID: 1251501208}
+  - component: {fileID: 1251501209}
   m_Layer: 0
   m_Name: 029-cymbals
   m_TagString: Untagged
@@ -1377,6 +1450,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1251501209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1251501205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1651726608
 GameObject:
   m_ObjectHideFlags: 0
@@ -1460,6 +1544,7 @@ GameObject:
   - component: {fileID: 1676787750}
   - component: {fileID: 1676787749}
   - component: {fileID: 1676787748}
+  - component: {fileID: 1676787751}
   m_Layer: 0
   m_Name: 049-drums
   m_TagString: Untagged
@@ -1620,6 +1705,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1676787751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1676787747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1883641836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1630,6 +1726,7 @@ GameObject:
   - component: {fileID: 1883641838}
   - component: {fileID: 1883641837}
   - component: {fileID: 1883641839}
+  - component: {fileID: 1883641840}
   m_Layer: 0
   m_Name: 027-drum
   m_TagString: Untagged
@@ -1790,6 +1887,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1883641840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1883641836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1902414669
 GameObject:
   m_ObjectHideFlags: 0
@@ -1800,6 +1908,7 @@ GameObject:
   - component: {fileID: 1902414672}
   - component: {fileID: 1902414671}
   - component: {fileID: 1902414670}
+  - component: {fileID: 1902414673}
   m_Layer: 0
   m_Name: 021-tuba
   m_TagString: Untagged
@@ -1960,6 +2069,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1902414673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1902414669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1937387945
 GameObject:
   m_ObjectHideFlags: 0
@@ -1969,6 +2089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1937387946}
   - component: {fileID: 1937387947}
+  - component: {fileID: 1937387948}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1997,6 +2118,17 @@ AudioListener:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1937387945}
   m_Enabled: 1
+--- !u!114 &1937387948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1937387945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5289071450901e4ab2cc36a4b1ee163, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2117379527
 GameObject:
   m_ObjectHideFlags: 0
@@ -2007,6 +2139,7 @@ GameObject:
   - component: {fileID: 2117379530}
   - component: {fileID: 2117379529}
   - component: {fileID: 2117379528}
+  - component: {fileID: 2117379531}
   m_Layer: 0
   m_Name: 023-xylophone
   m_TagString: Untagged
@@ -2167,3 +2300,14 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2117379531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2117379527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
