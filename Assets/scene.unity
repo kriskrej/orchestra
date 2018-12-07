@@ -136,7 +136,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 38900205d177b184798ee7249bb4c140, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -272,7 +272,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &242217962
 GameObject:
@@ -302,7 +301,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8254e4e468894bd4388f91bb9c25edcc, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -438,7 +437,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &707068475
 GameObject:
@@ -468,7 +466,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: af761b03c2ba5944594e0f1d0b0ef354, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -604,7 +602,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &948260928
 GameObject:
@@ -634,7 +631,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c1a37f814267ea7409b34543bef05376, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -770,7 +767,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1123369106
 GameObject:
@@ -855,7 +851,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: fd791a5add68bbf41bf2b6b50141230c, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -936,7 +932,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1245718178
 GameObject:
@@ -1021,7 +1016,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c4dfa26c23fdf0145b0ff690b06d29a7, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1102,7 +1097,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1251501205
 GameObject:
@@ -1187,7 +1181,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8a6b7c206dcbd284597aad99c30e5421, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1232,7 +1226,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -1256,7 +1250,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
 --- !u!114 &1251501209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1268,7 +1262,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1651726608
 GameObject:
@@ -1371,7 +1364,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 733196f28b5896f40b8d35a416c8a20c, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1507,7 +1500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1883641836
 GameObject:
@@ -1592,7 +1584,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 4a0ef02aa8bc6464d9533d1753b928c8, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1673,7 +1665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1902414669
 GameObject:
@@ -1703,7 +1694,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6a6b0c0333c28d440ab0957f086611f4, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1839,7 +1830,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
 --- !u!1 &1937387945
 GameObject:
@@ -1852,6 +1842,7 @@ GameObject:
   - component: {fileID: 1937387947}
   - component: {fileID: 1937387948}
   - component: {fileID: 1937387949}
+  - component: {fileID: 1937387950}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1932,6 +1923,17 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &1937387950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1937387945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c9584058d02a224584c90a73c55a3e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2117379527
 GameObject:
   m_ObjectHideFlags: 0
@@ -1960,7 +1962,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c91b835372b46ee429d14359bd776b16, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -2005,7 +2007,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -2029,7 +2031,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
 --- !u!212 &2117379529
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2096,5 +2098,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b71bd0c91edf2974b89169673c214ffd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listener: {fileID: 0}
   distance01: 0
